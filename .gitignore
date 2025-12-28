@@ -3,3 +3,4 @@ pyproject.toml
 .venv
 .qodo
 raw/
+data/processed/fact_event.csv
