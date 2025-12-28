@@ -1,0 +1,381 @@
+match_id,match_date,kick_off,home_team_name,away_team_name,home_score,away_score,match_week
+3754058,2016-01-02,16:00:00.000,Leicester City,AFC Bournemouth,0,0,20
+3754245,2015-10-17,16:00:00.000,West Bromwich Albion,Sunderland,1,0,9
+3754136,2015-12-19,18:30:00.000,Newcastle United,Aston Villa,1,1,17
+3754037,2016-04-30,16:00:00.000,Everton,AFC Bournemouth,2,1,36
+3754039,2016-02-13,16:00:00.000,Crystal Palace,Watford,1,2,26
+3754041,2016-05-15,16:00:00.000,Arsenal,Aston Villa,4,0,38
+3754042,2016-05-15,16:00:00.000,West Bromwich Albion,Liverpool,1,1,38
+3754043,2016-03-20,17:00:00.000,Tottenham Hotspur,AFC Bournemouth,3,0,31
+3754045,2015-12-29,20:45:00.000,Leicester City,Manchester City,0,0,19
+3754048,2016-04-13,21:00:00.000,Crystal Palace,Everton,0,0,35
+3754049,2016-02-27,16:00:00.000,Leicester City,Norwich City,1,0,27
+3754050,2016-03-01,20:45:00.000,Sunderland,Crystal Palace,2,2,28
+3754052,2016-03-19,16:00:00.000,West Bromwich Albion,Norwich City,0,1,31
+3754053,2016-03-13,17:00:00.000,Aston Villa,Tottenham Hotspur,0,2,30
+3754055,2016-05-11,21:00:00.000,Liverpool,Chelsea,1,1,30
+3754226,2015-12-30,20:45:00.000,Sunderland,Liverpool,0,1,19
+3754014,2015-12-26,13:45:00.000,Stoke City,Manchester United,2,0,18
+3754091,2015-10-24,16:00:00.000,Stoke City,Watford,0,2,10
+3754135,2015-12-05,13:45:00.000,Stoke City,Manchester City,2,0,15
+3754293,2015-11-07,18:30:00.000,Stoke City,Chelsea,1,0,12
+3754339,2015-09-26,16:00:00.000,Stoke City,AFC Bournemouth,2,1,7
+3754146,2015-09-19,16:00:00.000,Stoke City,Leicester City,2,2,6
+3754347,2015-12-05,16:00:00.000,Manchester United,West Ham United,0,0,15
+3754255,2015-12-13,17:00:00.000,Liverpool,West Bromwich Albion,2,2,16
+3754278,2015-10-03,16:00:00.000,AFC Bournemouth,Watford,1,1,8
+3753979,2015-11-23,21:00:00.000,Crystal Palace,Sunderland,0,1,13
+3753972,2015-11-21,16:00:00.000,Swansea City,AFC Bournemouth,2,2,13
+3753978,2015-09-26,16:00:00.000,Southampton,Swansea City,3,1,7
+3753974,2015-12-26,18:30:00.000,Newcastle United,Everton,0,1,18
+3753993,2015-08-15,16:00:00.000,Sunderland,Norwich City,1,3,2
+3753983,2015-10-31,16:00:00.000,Swansea City,Arsenal,0,3,11
+3754015,2015-10-25,15:05:00.000,Manchester United,Manchester City,0,0,10
+3754038,2015-11-29,17:15:00.000,Norwich City,Arsenal,1,1,14
+3754001,2015-09-26,18:30:00.000,Newcastle United,Chelsea,2,2,7
+3754007,2015-08-29,16:00:00.000,Stoke City,West Bromwich Albion,0,1,4
+3754008,2015-09-26,16:00:00.000,Manchester United,Sunderland,3,0,7
+3754029,2015-11-02,21:00:00.000,Tottenham Hotspur,Aston Villa,3,1,11
+3753995,2015-10-03,18:30:00.000,Chelsea,Southampton,1,3,8
+3753999,2015-10-17,18:30:00.000,Watford,Arsenal,0,3,9
+3754017,2015-10-24,16:00:00.000,Aston Villa,Swansea City,1,2,10
+3754006,2015-10-31,16:00:00.000,West Bromwich Albion,Leicester City,2,3,11
+3754023,2015-08-29,16:00:00.000,AFC Bournemouth,Leicester City,1,1,4
+3753984,2015-08-29,16:00:00.000,Liverpool,West Ham United,0,3,4
+3754011,2015-09-20,17:00:00.000,Southampton,Manchester United,2,3,6
+3754010,2015-09-19,16:00:00.000,Newcastle United,Watford,1,2,6
+3754028,2015-11-28,16:00:00.000,Manchester City,Southampton,3,1,14
+3753996,2015-11-21,16:00:00.000,Chelsea,Norwich City,1,0,13
+3754025,2015-12-19,16:00:00.000,Chelsea,Sunderland,3,1,17
+3754068,2015-09-19,16:00:00.000,Aston Villa,West Bromwich Albion,0,1,6
+3754056,2015-12-28,16:00:00.000,Everton,Stoke City,3,4,19
+3754040,2015-09-20,17:00:00.000,Liverpool,Norwich City,1,1,6
+3754074,2015-10-04,17:00:00.000,Swansea City,Tottenham Hotspur,2,2,8
+3754076,2015-10-03,16:00:00.000,Sunderland,West Ham United,2,2,8
+3754067,2015-10-17,16:00:00.000,Crystal Palace,West Ham United,1,3,9
+3754079,2015-10-03,16:00:00.000,Manchester City,Newcastle United,6,1,8
+3754090,2015-10-31,16:00:00.000,Newcastle United,Stoke City,0,0,11
+3754083,2015-08-29,16:00:00.000,Chelsea,Crystal Palace,1,2,4
+3754077,2015-09-19,18:30:00.000,Manchester City,West Ham United,1,2,6
+3754060,2015-10-04,14:30:00.000,Everton,Liverpool,1,1,8
+3754073,2015-12-05,18:30:00.000,Chelsea,AFC Bournemouth,0,1,15
+3754085,2015-12-05,16:00:00.000,Swansea City,Leicester City,0,3,15
+3754047,2015-11-29,17:15:00.000,Liverpool,Swansea City,1,0,14
+3754051,2015-12-20,14:30:00.000,Watford,Liverpool,3,0,17
+3754093,2015-11-29,13:00:00.000,Tottenham Hotspur,Chelsea,0,0,14
+3754046,2015-12-07,21:00:00.000,Everton,Crystal Palace,1,1,15
+3754072,2015-12-12,16:00:00.000,Sunderland,Watford,0,1,16
+3754082,2015-11-01,14:30:00.000,Everton,Sunderland,6,2,11
+3754106,2015-09-13,17:00:00.000,Leicester City,Aston Villa,3,2,5
+3754099,2015-10-03,13:45:00.000,Crystal Palace,West Bromwich Albion,2,0,8
+3754098,2015-10-31,13:45:00.000,Chelsea,Liverpool,1,3,11
+3754057,2015-12-26,16:00:00.000,Tottenham Hotspur,Norwich City,3,0,18
+3754112,2015-08-09,14:30:00.000,Newcastle United,Southampton,2,2,1
+3754117,2015-12-13,14:30:00.000,Aston Villa,Arsenal,0,2,16
+3754104,2015-08-22,16:00:00.000,Norwich City,Stoke City,1,1,3
+3754054,2015-12-26,16:00:00.000,Manchester City,Sunderland,4,1,18
+3754113,2015-12-05,16:00:00.000,Southampton,Aston Villa,1,1,15
+3754107,2015-08-14,20:45:00.000,Aston Villa,Manchester United,0,1,2
+3754105,2015-09-28,21:00:00.000,West Bromwich Albion,Everton,2,3,7
+3754097,2015-08-08,13:45:00.000,Manchester United,Tottenham Hotspur,1,0,1
+3754102,2015-10-18,17:00:00.000,Newcastle United,Norwich City,6,2,9
+3754115,2015-10-17,16:00:00.000,Chelsea,Aston Villa,2,0,9
+3754148,2015-09-13,14:30:00.000,Sunderland,Tottenham Hotspur,0,1,5
+3754169,2015-09-19,16:00:00.000,AFC Bournemouth,Sunderland,2,0,6
+3754174,2015-09-26,16:00:00.000,Leicester City,Arsenal,2,5,7
+3754185,2015-11-21,13:45:00.000,Watford,Manchester United,1,2,13
+3754162,2015-12-12,18:30:00.000,AFC Bournemouth,Manchester United,2,1,16
+3754096,2015-12-12,16:00:00.000,West Ham United,Stoke City,0,0,16
+3754171,2015-10-04,17:00:00.000,Arsenal,Manchester United,3,0,8
+3754119,2015-10-25,13:00:00.000,Sunderland,Newcastle United,3,0,10
+3754126,2015-10-24,18:30:00.000,Arsenal,Everton,2,1,10
+3754133,2015-10-24,16:00:00.000,Norwich City,West Bromwich Albion,0,1,10
+3754167,2015-10-31,16:00:00.000,Manchester City,Norwich City,2,1,11
+3754145,2015-08-10,21:00:00.000,West Bromwich Albion,Manchester City,0,3,1
+3754153,2015-12-19,16:00:00.000,Stoke City,Crystal Palace,1,2,17
+3754143,2015-12-06,17:00:00.000,Newcastle United,Liverpool,2,0,15
+3754186,2015-11-28,18:30:00.000,Leicester City,Manchester United,1,1,14
+3754130,2015-12-28,16:00:00.000,Norwich City,Aston Villa,2,0,19
+3754188,2015-12-19,16:00:00.000,Southampton,Tottenham Hotspur,0,2,17
+3754178,2015-11-28,16:00:00.000,Aston Villa,Watford,2,3,14
+3754157,2015-11-28,16:00:00.000,AFC Bournemouth,Everton,3,3,14
+3754166,2015-12-19,16:00:00.000,Everton,Leicester City,2,3,17
+3754211,2015-11-21,16:00:00.000,Newcastle United,Leicester City,0,3,13
+3754150,2015-11-28,16:00:00.000,Sunderland,Stoke City,2,0,14
+3754160,2015-12-05,16:00:00.000,Arsenal,Sunderland,3,1,15
+3754218,2015-12-12,16:00:00.000,Crystal Palace,Southampton,1,0,16
+3754217,2015-09-19,13:45:00.000,Chelsea,Arsenal,2,0,6
+3754205,2015-08-29,13:45:00.000,Newcastle United,Arsenal,0,1,4
+3754221,2015-08-30,17:00:00.000,Swansea City,Manchester United,2,1,4
+3754198,2015-10-17,13:45:00.000,Tottenham Hotspur,Liverpool,0,0,9
+3754193,2015-10-17,16:00:00.000,Manchester City,AFC Bournemouth,5,1,9
+3754222,2015-09-20,14:30:00.000,Tottenham Hotspur,Crystal Palace,1,0,6
+3754213,2015-09-12,16:00:00.000,Watford,Swansea City,1,0,5
+3754212,2015-09-26,16:00:00.000,Liverpool,Aston Villa,3,2,7
+3754223,2015-10-31,16:00:00.000,Crystal Palace,Manchester United,0,0,11
+3754197,2015-09-26,13:45:00.000,Tottenham Hotspur,Manchester City,4,1,7
+3754208,2015-11-21,18:30:00.000,Manchester City,Liverpool,1,4,13
+3754204,2015-08-29,16:00:00.000,Aston Villa,Sunderland,2,2,4
+3754194,2015-11-07,16:00:00.000,West Ham United,Everton,1,1,12
+3754219,2015-12-19,16:00:00.000,West Bromwich Albion,AFC Bournemouth,1,2,17
+3754254,2015-08-22,13:45:00.000,Manchester United,Newcastle United,0,0,3
+3754230,2015-10-25,17:15:00.000,Liverpool,Southampton,1,1,10
+3754285,2015-12-26,16:00:00.000,Aston Villa,West Ham United,1,1,18
+3754233,2015-08-23,17:00:00.000,Everton,Manchester City,0,2,3
+3754270,2015-08-15,16:00:00.000,Tottenham Hotspur,Stoke City,2,2,2
+3754237,2015-08-08,16:00:00.000,Leicester City,Sunderland,4,2,1
+3754257,2015-09-12,16:00:00.000,Crystal Palace,Manchester City,0,1,5
+3754266,2015-09-27,17:00:00.000,Watford,Crystal Palace,0,1,7
+3754256,2015-10-17,16:00:00.000,Everton,Manchester United,0,3,9
+3754288,2015-10-24,16:00:00.000,West Ham United,Chelsea,2,1,10
+3754238,2015-11-07,13:45:00.000,AFC Bournemouth,Newcastle United,0,1,12
+3754269,2015-10-19,21:00:00.000,Swansea City,Stoke City,0,1,9
+3754234,2015-10-25,15:05:00.000,AFC Bournemouth,Tottenham Hotspur,1,5,10
+3754246,2015-08-29,16:00:00.000,Manchester City,Watford,2,0,4
+3754296,2015-12-21,21:00:00.000,Arsenal,Manchester City,2,1,17
+3754273,2015-10-31,16:00:00.000,Watford,West Ham United,2,0,11
+3754263,2015-10-24,16:00:00.000,Leicester City,Crystal Palace,1,0,10
+3754268,2015-08-29,18:30:00.000,Tottenham Hotspur,Everton,0,0,4
+3754286,2015-12-05,16:00:00.000,Watford,Norwich City,2,0,15
+3754291,2015-12-28,16:00:00.000,Watford,Tottenham Hotspur,1,2,19
+3754283,2015-11-21,16:00:00.000,Everton,Aston Villa,4,0,13
+3754235,2015-11-29,15:05:00.000,West Ham United,West Bromwich Albion,1,1,14
+3754279,2015-12-26,16:00:00.000,Swansea City,West Bromwich Albion,1,0,18
+3754276,2015-12-13,17:00:00.000,Tottenham Hotspur,Newcastle United,1,2,16
+3754287,2015-12-26,16:00:00.000,Chelsea,Watford,2,2,18
+3754259,2015-12-20,17:00:00.000,Swansea City,West Ham United,0,0,17
+3754335,2015-10-03,16:00:00.000,Norwich City,Leicester City,1,2,8
+3754298,2015-09-19,16:00:00.000,Swansea City,Everton,0,0,6
+3754315,2015-09-12,16:00:00.000,Norwich City,AFC Bournemouth,3,1,5
+3754330,2015-10-03,16:00:00.000,Aston Villa,Stoke City,0,1,8
+3754337,2015-08-30,14:30:00.000,Southampton,Norwich City,3,0,4
+3754297,2015-11-07,16:00:00.000,Manchester United,West Bromwich Albion,2,0,12
+3754301,2015-11-21,16:00:00.000,West Bromwich Albion,Arsenal,2,1,13
+3754323,2015-09-26,16:00:00.000,West Ham United,Norwich City,2,2,7
+3754304,2015-11-28,16:00:00.000,Crystal Palace,Newcastle United,5,1,14
+3754311,2015-11-07,16:00:00.000,Norwich City,Swansea City,1,0,12
+3754328,2015-12-12,16:00:00.000,Manchester City,Swansea City,2,1,16
+3754309,2015-12-26,20:45:00.000,Southampton,Arsenal,4,0,18
+3754325,2015-09-12,16:00:00.000,West Bromwich Albion,Southampton,0,0,5
+3754329,2015-09-14,21:00:00.000,West Ham United,Newcastle United,2,0,5
+3754302,2015-10-17,16:00:00.000,Southampton,Leicester City,2,2,9
+3754013,2015-12-14,21:00:00.000,Leicester City,Chelsea,2,1,16
+3754044,2015-12-19,16:00:00.000,Manchester United,Norwich City,1,2,17
+3754351,2015-11-08,17:00:00.000,Liverpool,Crystal Palace,1,2,12
+3754343,2015-12-26,16:00:00.000,Liverpool,Leicester City,1,0,18
+3754109,2015-11-22,17:00:00.000,Tottenham Hotspur,West Ham United,4,1,13
+3754182,2015-12-12,13:45:00.000,Norwich City,Everton,1,1,16
+3754240,2015-09-12,16:00:00.000,Arsenal,Stoke City,2,0,5
+3754336,2015-09-12,13:45:00.000,Everton,Chelsea,3,1,5
+3754247,2015-11-21,16:00:00.000,Southampton,Stoke City,0,1,13
+3754156,2015-11-07,16:00:00.000,Leicester City,Watford,2,1,12
+3754265,2015-11-08,17:00:00.000,Arsenal,Tottenham Hotspur,1,1,12
+3754000,2015-11-07,16:00:00.000,Sunderland,Southampton,0,1,12
+3754003,2015-09-12,18:30:00.000,Manchester United,Liverpool,3,1,5
+3754344,2015-08-15,16:00:00.000,Swansea City,Newcastle United,2,0,2
+3754131,2015-08-22,16:00:00.000,West Ham United,AFC Bournemouth,3,4,3
+3754300,2015-08-08,16:00:00.000,Everton,Watford,2,2,1
+3754312,2015-08-16,14:30:00.000,Crystal Palace,Arsenal,1,2,2
+3754138,2015-08-08,16:00:00.000,Norwich City,Crystal Palace,1,3,1
+3754203,2015-08-15,16:00:00.000,West Ham United,Leicester City,1,2,2
+3754190,2015-08-22,16:00:00.000,Crystal Palace,Aston Villa,2,1,3
+3754066,2015-08-16,17:00:00.000,Manchester City,Chelsea,3,0,2
+3754034,2015-08-15,13:45:00.000,Southampton,Everton,0,3,2
+3753985,2015-08-09,17:00:00.000,Stoke City,Liverpool,0,1,1
+3753987,2015-08-22,16:00:00.000,Leicester City,Tottenham Hotspur,1,1,3
+3754189,2015-08-23,17:00:00.000,Watford,Southampton,0,0,3
+3754129,2015-08-24,21:00:00.000,Arsenal,Liverpool,0,0,3
+3754180,2015-08-22,16:00:00.000,Sunderland,Swansea City,1,1,3
+3754059,2015-08-23,14:30:00.000,West Bromwich Albion,Chelsea,2,3,3
+3754064,2016-03-20,14:30:00.000,Southampton,Liverpool,3,2,31
+3754065,2016-01-13,21:00:00.000,Tottenham Hotspur,Leicester City,0,1,21
+3754173,2015-12-28,18:30:00.000,Arsenal,AFC Bournemouth,2,0,19
+3754175,2016-04-02,16:00:00.000,Sunderland,West Bromwich Albion,0,0,32
+3753973,2016-03-19,16:00:00.000,Chelsea,West Ham United,2,2,31
+3753975,2016-01-23,16:00:00.000,Sunderland,AFC Bournemouth,1,1,23
+3753976,2016-03-02,20:45:00.000,Arsenal,Swansea City,1,2,28
+3753977,2016-03-19,16:00:00.000,Watford,Stoke City,1,2,31
+3753980,2016-03-19,13:45:00.000,Everton,Arsenal,0,2,31
+3753981,2016-01-12,20:45:00.000,Aston Villa,Crystal Palace,1,0,21
+3753982,2016-04-03,14:30:00.000,Leicester City,Southampton,1,0,32
+3753986,2016-04-10,17:00:00.000,Liverpool,Stoke City,4,1,33
+3753988,2016-03-12,16:00:00.000,AFC Bournemouth,Swansea City,3,2,30
+3753989,2016-05-11,20:45:00.000,Sunderland,Everton,3,0,30
+3753990,2016-04-24,15:05:00.000,Sunderland,Arsenal,0,0,35
+3753991,2016-03-02,21:00:00.000,Liverpool,Manchester City,3,0,28
+3753992,2016-05-08,14:30:00.000,Tottenham Hotspur,Southampton,1,2,37
+3753994,2016-05-15,16:00:00.000,Southampton,Crystal Palace,4,1,38
+3753997,2016-02-02,20:45:00.000,West Ham United,Aston Villa,2,0,24
+3753998,2015-12-28,18:30:00.000,West Ham United,Southampton,2,1,19
+3754002,2016-03-14,21:00:00.000,Leicester City,Newcastle United,1,0,30
+3754004,2016-01-16,16:00:00.000,AFC Bournemouth,Norwich City,3,0,22
+3754005,2016-03-02,20:45:00.000,Stoke City,Newcastle United,1,0,28
+3754009,2016-04-17,17:00:00.000,Arsenal,Crystal Palace,1,1,34
+3754012,2016-02-27,16:00:00.000,Southampton,Chelsea,1,2,27
+3754016,2016-04-09,16:00:00.000,Southampton,Newcastle United,3,1,33
+3754018,2016-05-01,13:00:00.000,Swansea City,Liverpool,3,1,36
+3754019,2015-12-28,18:30:00.000,Manchester United,Chelsea,0,0,19
+3754021,2016-01-12,20:45:00.000,AFC Bournemouth,West Ham United,1,3,21
+3754022,2016-04-09,16:00:00.000,Crystal Palace,Norwich City,1,0,33
+3754024,2016-04-16,16:00:00.000,Newcastle United,Swansea City,3,0,34
+3754026,2016-05-07,16:00:00.000,Crystal Palace,Stoke City,2,1,37
+3754027,2016-01-16,13:45:00.000,Tottenham Hotspur,Sunderland,4,1,22
+3754030,2016-04-09,16:00:00.000,Watford,Everton,1,1,33
+3754031,2016-02-13,13:45:00.000,Sunderland,Manchester United,2,1,26
+3754032,2016-01-13,20:45:00.000,Stoke City,Norwich City,3,1,21
+3754033,2016-05-07,18:30:00.000,Leicester City,Everton,3,1,37
+3754035,2016-04-09,18:30:00.000,Manchester City,West Bromwich Albion,2,1,33
+3754036,2016-01-02,16:00:00.000,Sunderland,Aston Villa,3,1,20
+3754061,2016-03-05,16:00:00.000,Chelsea,Stoke City,1,1,29
+3754062,2016-01-13,20:45:00.000,Chelsea,West Bromwich Albion,2,2,21
+3754063,2016-04-30,16:00:00.000,Watford,Aston Villa,3,2,36
+3754069,2016-01-02,16:00:00.000,Arsenal,Newcastle United,1,0,20
+3754070,2016-05-07,16:00:00.000,Aston Villa,Newcastle United,0,0,37
+3754071,2016-01-13,20:45:00.000,Swansea City,Sunderland,2,4,21
+3754075,2016-04-02,13:45:00.000,Aston Villa,Chelsea,0,4,32
+3754080,2016-02-06,16:00:00.000,Tottenham Hotspur,Watford,1,0,25
+3754081,2016-03-06,17:00:00.000,West Bromwich Albion,Manchester United,1,0,29
+3754084,2016-01-23,16:00:00.000,West Bromwich Albion,Aston Villa,0,0,23
+3754086,2016-04-20,20:45:00.000,West Ham United,Watford,3,1,30
+3754087,2016-04-02,18:30:00.000,Liverpool,Tottenham Hotspur,1,1,32
+3754088,2016-01-12,20:45:00.000,Newcastle United,Manchester United,3,3,21
+3754089,2016-02-02,21:00:00.000,Crystal Palace,AFC Bournemouth,1,2,24
+3754092,2016-05-02,21:00:00.000,Chelsea,Tottenham Hotspur,2,2,36
+3754094,2016-02-02,21:00:00.000,Manchester United,Stoke City,3,0,24
+3754095,2016-02-02,20:45:00.000,Sunderland,Manchester City,0,1,24
+3754100,2016-03-20,14:30:00.000,Newcastle United,Sunderland,1,1,31
+3754101,2016-01-02,16:00:00.000,Norwich City,Southampton,1,0,20
+3754103,2016-02-03,20:45:00.000,Watford,Chelsea,0,0,24
+3754108,2016-05-07,16:00:00.000,Sunderland,Chelsea,3,2,37
+3754110,2016-01-23,18:30:00.000,West Ham United,Manchester City,2,2,23
+3754111,2016-01-24,17:00:00.000,Arsenal,Chelsea,0,1,23
+3754114,2016-01-03,14:30:00.000,Crystal Palace,Chelsea,0,3,20
+3754116,2016-04-09,16:00:00.000,Swansea City,Chelsea,1,0,33
+3754118,2016-04-02,16:00:00.000,Arsenal,Watford,4,0,32
+3754120,2016-02-06,18:30:00.000,Southampton,West Ham United,1,0,25
+3754121,2016-02-27,16:00:00.000,Watford,AFC Bournemouth,0,0,27
+3754122,2016-01-02,16:00:00.000,West Bromwich Albion,Stoke City,2,1,20
+3754123,2016-05-15,16:00:00.000,Everton,Norwich City,3,0,38
+3754124,2016-03-20,17:00:00.000,Manchester City,Manchester United,0,1,31
+3754125,2016-01-16,16:00:00.000,Chelsea,Everton,3,3,22
+3754127,2016-02-06,16:00:00.000,Stoke City,Everton,0,3,25
+3754132,2016-04-30,16:00:00.000,Stoke City,Sunderland,1,1,36
+3754134,2016-05-10,21:30:00.000,West Ham United,Manchester United,3,2,35
+3754137,2016-04-16,16:00:00.000,Everton,Southampton,1,1,34
+3754139,2016-02-13,16:00:00.000,Swansea City,Southampton,0,1,26
+3754140,2016-01-03,17:00:00.000,Everton,Tottenham Hotspur,1,1,20
+3754142,2016-01-13,20:45:00.000,Manchester City,Everton,0,0,21
+3754144,2016-04-02,16:00:00.000,AFC Bournemouth,Manchester City,0,4,32
+3754147,2016-02-14,17:15:00.000,Manchester City,Tottenham Hotspur,1,2,26
+3754149,2016-05-15,16:00:00.000,Swansea City,Manchester City,1,1,38
+3754151,2016-03-05,16:00:00.000,Swansea City,Norwich City,1,0,29
+3754152,2016-04-10,14:30:00.000,Sunderland,Leicester City,0,2,33
+3754154,2016-04-23,16:00:00.000,Liverpool,Newcastle United,2,2,35
+3754155,2016-04-16,16:00:00.000,West Bromwich Albion,Watford,0,1,34
+3754158,2016-05-07,16:00:00.000,West Ham United,Swansea City,1,4,37
+3754159,2016-05-17,21:00:00.000,Manchester United,AFC Bournemouth,3,1,38
+3754161,2016-01-18,21:00:00.000,Swansea City,Watford,1,0,22
+3754163,2016-01-24,14:30:00.000,Everton,Swansea City,1,2,23
+3754164,2016-03-05,16:00:00.000,Southampton,Sunderland,1,1,29
+3754165,2016-05-01,15:05:00.000,Manchester United,Leicester City,1,1,36
+3754168,2016-01-16,16:00:00.000,Southampton,West Bromwich Albion,3,0,22
+3754170,2016-04-30,16:00:00.000,Newcastle United,Crystal Palace,1,0,36
+3754172,2016-04-16,13:45:00.000,Norwich City,Sunderland,0,3,34
+3754176,2016-04-02,16:00:00.000,West Ham United,Crystal Palace,2,2,32
+3754177,2016-03-05,16:00:00.000,Newcastle United,AFC Bournemouth,1,3,29
+3754179,2016-01-23,16:00:00.000,Crystal Palace,Tottenham Hotspur,1,3,23
+3754181,2016-03-19,16:00:00.000,Crystal Palace,Leicester City,0,1,31
+3754183,2016-01-13,20:45:00.000,Southampton,Watford,2,0,21
+3754184,2016-04-30,18:30:00.000,Arsenal,Norwich City,1,0,36
+3754187,2016-04-18,21:00:00.000,Stoke City,Tottenham Hotspur,0,4,34
+3754191,2015-11-01,17:00:00.000,Southampton,AFC Bournemouth,2,0,11
+3754192,2016-04-30,16:00:00.000,West Bromwich Albion,West Ham United,0,3,36
+3754195,2015-12-28,16:00:00.000,West Bromwich Albion,Newcastle United,1,0,19
+3754196,2016-03-12,16:00:00.000,Stoke City,Southampton,1,2,30
+3754199,2016-05-15,16:00:00.000,Stoke City,West Ham United,2,1,38
+3754200,2016-01-23,16:00:00.000,Manchester United,Southampton,0,1,23
+3754201,2016-02-02,20:45:00.000,Arsenal,Southampton,0,0,24
+3754202,2016-01-17,17:15:00.000,Stoke City,Arsenal,0,0,22
+3754206,2016-04-19,20:45:00.000,Newcastle United,Manchester City,1,1,27
+3754207,2016-05-11,20:45:00.000,Norwich City,Watford,4,2,35
+3754209,2016-04-10,17:30:00.000,Tottenham Hotspur,Manchester United,3,0,33
+3754210,2016-05-07,13:45:00.000,Norwich City,Manchester United,0,1,37
+3754214,2016-02-14,15:05:00.000,Aston Villa,Liverpool,0,6,26
+3754215,2015-12-05,16:00:00.000,West Bromwich Albion,Tottenham Hotspur,1,1,15
+3754216,2016-04-17,14:30:00.000,AFC Bournemouth,Liverpool,1,2,34
+3754220,2016-03-06,14:30:00.000,Crystal Palace,Liverpool,1,2,29
+3754224,2016-03-19,18:30:00.000,Swansea City,Aston Villa,1,0,31
+3754225,2016-05-07,16:00:00.000,AFC Bournemouth,West Bromwich Albion,1,1,37
+3754227,2016-04-17,14:30:00.000,Leicester City,West Ham United,2,2,34
+3754228,2016-04-24,17:15:00.000,Leicester City,Swansea City,4,0,35
+3754229,2016-05-15,16:00:00.000,Chelsea,Leicester City,1,1,38
+3754231,2016-03-01,20:45:00.000,Leicester City,West Bromwich Albion,2,2,28
+3754232,2016-03-02,21:00:00.000,Manchester United,Watford,1,0,28
+3754236,2016-02-27,18:30:00.000,West Bromwich Albion,Crystal Palace,3,2,27
+3754239,2016-02-28,15:05:00.000,Manchester United,Arsenal,3,2,27
+3754241,2016-04-09,13:45:00.000,West Ham United,Arsenal,3,3,33
+3754242,2016-04-23,16:00:00.000,AFC Bournemouth,Chelsea,1,4,35
+3754243,2016-04-02,16:00:00.000,Norwich City,Newcastle United,3,2,32
+3754244,2016-02-13,16:00:00.000,Norwich City,West Ham United,2,2,26
+3754249,2016-03-05,16:00:00.000,Manchester City,Aston Villa,4,0,29
+3754250,2016-01-16,18:30:00.000,Aston Villa,Leicester City,1,1,22
+3754251,2016-01-02,13:45:00.000,West Ham United,Liverpool,2,0,20
+3754252,2016-02-03,20:45:00.000,Everton,Newcastle United,3,0,24
+3754253,2016-02-07,14:30:00.000,AFC Bournemouth,Arsenal,0,2,25
+3754260,2016-01-16,16:00:00.000,Manchester City,Crystal Palace,4,0,22
+3754261,2016-02-14,13:00:00.000,Arsenal,Leicester City,2,1,26
+3754262,2016-04-09,16:00:00.000,Aston Villa,AFC Bournemouth,1,2,33
+3754264,2016-02-13,18:30:00.000,Chelsea,Newcastle United,5,1,26
+3754295,2016-04-16,16:00:00.000,Manchester United,Aston Villa,1,0,34
+3754271,2016-01-23,16:00:00.000,Watford,Newcastle United,2,1,23
+3754272,2016-04-02,16:00:00.000,Stoke City,Swansea City,2,2,32
+3754274,2016-02-13,16:00:00.000,AFC Bournemouth,Stoke City,1,3,26
+3754275,2016-02-02,20:45:00.000,Leicester City,Liverpool,2,0,24
+3754277,2016-03-05,16:00:00.000,Everton,West Ham United,2,3,29
+3754280,2016-03-01,20:45:00.000,Norwich City,Chelsea,1,2,28
+3754281,2016-02-07,17:00:00.000,Chelsea,Manchester United,1,1,25
+3754282,2016-04-23,16:00:00.000,Aston Villa,Southampton,2,4,35
+3754284,2016-04-21,20:45:00.000,Arsenal,West Bromwich Albion,2,0,30
+3754289,2016-03-05,18:30:00.000,Watford,Leicester City,0,1,29
+3754290,2016-02-06,13:45:00.000,Manchester City,Leicester City,1,3,25
+3754292,2016-02-06,16:00:00.000,Newcastle United,West Bromwich Albion,1,0,25
+3754294,2016-04-20,21:00:00.000,Liverpool,Everton,4,0,27
+3754248,2015-12-26,16:00:00.000,AFC Bournemouth,Crystal Palace,0,0,18
+3754299,2016-04-03,17:00:00.000,Manchester United,Everton,1,0,32
+3754303,2016-02-06,16:00:00.000,Swansea City,Crystal Palace,1,1,25
+3754305,2016-01-13,21:00:00.000,Liverpool,Arsenal,3,3,21
+3754306,2016-02-06,16:00:00.000,Aston Villa,Norwich City,2,0,25
+3754307,2016-04-23,13:45:00.000,Manchester City,Stoke City,4,0,35
+3754308,2016-05-15,16:00:00.000,Watford,Sunderland,2,2,38
+3754310,2016-04-20,21:00:00.000,Manchester United,Crystal Palace,2,0,30
+3754313,2016-03-12,13:45:00.000,Norwich City,Manchester City,0,0,30
+3754314,2016-05-08,17:00:00.000,Manchester City,Arsenal,2,2,37
+3754316,2016-02-06,16:00:00.000,Liverpool,Sunderland,2,2,25
+3754317,2016-02-02,20:45:00.000,Norwich City,Tottenham Hotspur,0,3,24
+3754318,2016-03-05,13:45:00.000,Tottenham Hotspur,Arsenal,2,2,29
+3754319,2016-01-02,16:00:00.000,Manchester United,Swansea City,2,1,20
+3754320,2016-05-01,17:30:00.000,Southampton,Manchester City,4,2,36
+3754321,2016-02-27,16:00:00.000,Stoke City,Aston Villa,2,1,27
+3754322,2016-04-16,18:30:00.000,Chelsea,Manchester City,0,3,34
+3754324,2016-02-28,15:05:00.000,Tottenham Hotspur,Swansea City,2,1,27
+3754326,2015-12-28,16:00:00.000,Crystal Palace,Swansea City,0,0,19
+3754327,2016-03-01,20:45:00.000,Aston Villa,Everton,1,3,28
+3754331,2016-02-27,13:45:00.000,West Ham United,Sunderland,1,0,27
+3754332,2016-04-25,21:00:00.000,Tottenham Hotspur,West Bromwich Albion,1,1,35
+3754333,2016-05-15,16:00:00.000,Newcastle United,Tottenham Hotspur,5,1,38
+3754334,2016-03-01,20:45:00.000,AFC Bournemouth,Southampton,2,0,28
+3754338,2016-01-16,16:00:00.000,Newcastle United,West Ham United,2,1,22
+3754340,2016-02-02,21:00:00.000,West Bromwich Albion,Swansea City,1,1,24
+3754341,2016-01-23,16:00:00.000,Leicester City,Stoke City,3,0,23
+3754342,2016-05-08,17:00:00.000,Liverpool,Watford,2,0,37
+3754345,2016-01-17,15:05:00.000,Liverpool,Manchester United,0,1,22
+3754346,2016-01-02,18:30:00.000,Watford,Manchester City,1,2,20
+3754348,2016-01-23,13:45:00.000,Norwich City,Liverpool,4,5,23
+3754349,2016-03-02,20:45:00.000,West Ham United,Tottenham Hotspur,1,0,28
+3754350,2016-02-13,16:00:00.000,Everton,West Bromwich Albion,0,1,26
+3754258,2015-11-08,14:30:00.000,Aston Villa,Manchester City,0,0,12
+3754020,2015-08-17,21:00:00.000,Liverpool,AFC Bournemouth,1,0,2
+3754267,2015-08-15,16:00:00.000,Watford,West Bromwich Albion,0,0,2
+3754141,2015-08-09,14:30:00.000,Arsenal,West Ham United,0,2,1
+3754128,2015-08-08,16:00:00.000,AFC Bournemouth,Aston Villa,0,1,1
+3754078,2015-08-08,18:30:00.000,Chelsea,Swansea City,2,2,1
