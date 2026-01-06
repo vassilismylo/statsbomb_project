@@ -4,3 +4,4 @@ pyproject.toml
 .qodo
 raw/
 data/processed/fact_event.csv
+stats_cube/
