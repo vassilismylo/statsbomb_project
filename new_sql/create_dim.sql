@@ -68,6 +68,7 @@ CREATE TABLE dim.dim_match (
     home_score       INT               NULL,
     away_score       INT               NULL,
     match_week       INT               NULL,
+    kick_off TIME NULL,
 
     CONSTRAINT UQ_dim_match_match_id UNIQUE (match_id),
 
@@ -102,6 +103,17 @@ CREATE TABLE dim.dim_shot_attributes (
     shot_one_on_one  BIT NULL
 );
 GO
+
+CREATE TABLE dim.dim_pass_attributes (
+    pass_attr_key   INT IDENTITY(1,1) NOT NULL
+        CONSTRAINT PK_dim_pass_attributes PRIMARY KEY,
+
+    pass_height     NVARCHAR(50)  NULL,
+    pass_type       NVARCHAR(100) NULL,
+    pass_outcome    NVARCHAR(100) NULL
+);
+GO
+
 
 /* -------------------------
    (Optional but recommended) Time dimension
