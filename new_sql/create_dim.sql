@@ -15,7 +15,7 @@ GO
 
 CREATE TABLE dim.dim_team (
     team_key   INT IDENTITY(1,1) NOT NULL CONSTRAINT PK_dim_team PRIMARY KEY,
-    team_id    INT               NOT NULL,  -- StatsBomb natural id
+    team_id    INT               NOT NULL, 
     team_name  NVARCHAR(200)     NOT NULL,
     CONSTRAINT UQ_dim_team_team_id UNIQUE (team_id)
 );
@@ -23,7 +23,7 @@ GO
 
 CREATE TABLE dim.dim_player (
     player_key    INT IDENTITY(1,1) NOT NULL CONSTRAINT PK_dim_player PRIMARY KEY,
-    player_id     INT               NOT NULL,  -- StatsBomb natural id
+    player_id     INT               NOT NULL, 
     player_name   NVARCHAR(200)     NOT NULL,
     position_name NVARCHAR(100)     NULL,
     CONSTRAINT UQ_dim_player_player_id UNIQUE (player_id)
@@ -32,7 +32,7 @@ GO
 
 CREATE TABLE dim.dim_competition (
     competition_key  INT IDENTITY(1,1) NOT NULL CONSTRAINT PK_dim_competition PRIMARY KEY,
-    competition_id   INT               NOT NULL,  -- StatsBomb natural id
+    competition_id   INT               NOT NULL,  
     competition_name NVARCHAR(200)     NOT NULL,
     country_name     NVARCHAR(100)     NULL,
     CONSTRAINT UQ_dim_competition_competition_id UNIQUE (competition_id)
@@ -41,7 +41,7 @@ GO
 
 CREATE TABLE dim.dim_season (
     season_key  INT IDENTITY(1,1) NOT NULL CONSTRAINT PK_dim_season PRIMARY KEY,
-    season_id   INT               NOT NULL,  -- StatsBomb natural id
+    season_id   INT               NOT NULL, 
     season_name NVARCHAR(100)     NOT NULL,
     CONSTRAINT UQ_dim_season_season_id UNIQUE (season_id)
 );
@@ -53,7 +53,7 @@ GO
    ------------------------- */
 CREATE TABLE dim.dim_match (
     match_key        INT IDENTITY(1,1) NOT NULL CONSTRAINT PK_dim_match PRIMARY KEY,
-    match_id         INT               NOT NULL, -- StatsBomb natural id
+    match_id         INT               NOT NULL, 
     match_date       DATE              NULL,
 
     competition_key  INT               NULL,

@@ -66,11 +66,8 @@ GO
    ------------------------- */
 CREATE TABLE fact.fact_shot (
     shot_key            BIGINT IDENTITY(1,1) NOT NULL CONSTRAINT PK_fact_shot PRIMARY KEY,
-
-    -- Keep the natural event_id for traceability + easy joins during loading
     event_id            NVARCHAR(64) NOT NULL,
-    event_key           BIGINT       NULL,      -- optional FK to fact_event once loaded
-
+    event_key           BIGINT       NULL,      
     match_key           INT          NOT NULL,
     team_key            INT          NOT NULL,
     player_key          INT          NULL,
